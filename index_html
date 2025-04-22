@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+ <html> </html>
+ <head>
+ <title>A Very Simple Page</title> 
+ </head>
+ <body>
+ <h1>Welcome to XXX Website</h1>
+ <img src=" images/Profile.jpeg" width="240" heiht="300" alt="my photo" />
+   <hr>
+   <h2>Aout Me</h2> 
+   <p>I am a very imaginative person. <br> 
+ I dream day and night. Wanna to talk to me, got to wake me up</p>
+ <h2>My school</h2>
+ <p>I am currently study at <a href"http://www.nyp.edu.sg"> Secondary </a></p>
+ <ol> </ol>
+ <li>English</li>
+ <li>Math</li>
+ <li>Science</li>
+ <li>History</li>
+ 
+ </ol>
+ <p>I am learning how to make a website using html tags and javascript.</p>
+ <p>I create a games at<a href="guessImages.html">Guess the image</a></p>
+ <p>xxx copyright & copy;</p>
+ </body>
+ </html>
